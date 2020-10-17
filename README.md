@@ -23,6 +23,6 @@ setting email in .env file
 
 • MAIL_ENCRYPTION=ssl
 
-UPDATE Model User 
+UPDATE MODEL User AND UPDATE ROUTES 
 
 Enjoy
